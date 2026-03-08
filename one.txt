@@ -2,3 +2,4 @@ one
 hollo
 
 Another feature
+adding dark mode functionality
